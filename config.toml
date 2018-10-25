@@ -1,0 +1,24 @@
+#baseURL = "http://patpadgett.github.io/"
+languageCode = "en-us"
+title = "Crumpled notes in the wastebasket"
+theme = "hpstr"
+pluralizelisttitles = false
+PygmentsCodeFences = true
+Paginate = 5
+disqusShortname = "hpstrhugo"
+
+[params]
+	locale = "en-US"
+	description = "A collection of tech-related observations and thoughts"
+	subtitle = "A collection of tech-related observations and thoughts"
+
+	[params.author]
+		name = "Patrick Padgett"
+		avatar = "/images/patpadgett.png"
+		bio = "I am a nerd."
+		github = "patpadgett"
+
+	[params.image]
+		feature = "/images/header.jpg"
+		credit = "dargadgetz"
+		creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
