@@ -1,4 +1,4 @@
-#baseURL = "http://patpadgett.github.io/"
+baseURL = "http://patpadgett.com/"
 languageCode = "en-us"
 title = "Crumpled notes in the wastebasket"
 theme = "hpstr"
@@ -22,3 +22,4 @@ disqusShortname = "hpstrhugo"
 		feature = "/images/header.jpg"
 		credit = "dargadgetz"
 		creditlink = "http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/"
+
