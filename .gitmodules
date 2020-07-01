@@ -7,3 +7,6 @@
 	path = themes/hpstr
 	url = git@github.com:dldx/hpstr-hugo-theme.git
 	branch = master
+[submodule "patpadgett.github.io"]
+	path = patpadgett.github.io
+	url = git@github.com:patpadgett/patpadgett.github.io.git
